@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-test/static/js/main.f0061a20.js",
-    "index.html": "/react-test/index.html",
-    "main.f0061a20.js.map": "/react-test/static/js/main.f0061a20.js.map"
+    "main.js": "/ToDo_Practice/static/js/main.c0e7ef96.js",
+    "index.html": "/ToDo_Practice/index.html",
+    "main.c0e7ef96.js.map": "/ToDo_Practice/static/js/main.c0e7ef96.js.map"
   },
   "entrypoints": [
-    "static/js/main.f0061a20.js"
+    "static/js/main.c0e7ef96.js"
   ]
 }
